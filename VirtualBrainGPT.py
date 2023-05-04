@@ -19,7 +19,7 @@ st.sidebar.success("Select either the Brain Entry or Brain Search from above.")
 st.markdown(
     """
     This application uses the Streamlit interface to take journaling to a whole new level.
-    Welcome to VirtualBrainGPT, an application that streamlines the process of creating and managing personal journal entries. By leveraging the power of OpenAI's Embeddings API and Langchain, this application not only simplifies journaling but also offers a new way to effortly and immediately search between multiple different journal entries, no matter how many or how long they may be.
+    Welcome to VirtualBrainGPT, an application that streamlines the process of creating and managing personal journal entries. By leveraging the power of OpenAI's Embeddings and Langchain, this application not only simplifies journaling but also offers a new way to effortly and immediately search between multiple different journal entries, no matter how many or how long they may be.
     
     To begin, simply select either **'Brain Entry'** or **'Brain Search'** from the **sidebar menu**! 👈
     
@@ -27,7 +27,7 @@ st.markdown(
     In the 'Brain Entry' section, users can create a new journal entry or edit an existing one by choosing a date using the date picker. Once you have completed your entry, click 'Submit' and it will be saved or updated to the brain_journal.txt file in the brain folder.
 
     ### Brain Search
-    The 'Brain Search' section of the application unlocks the full potential of your digital journal. Here, you can ask any questions related to your journal entries, and the combination of OpenAI's Embeddings API and Langchain will provide accurate responses in seconds, no matter how long the entry or document may be. The virtual brain can help in all aspects of a user's life, enabling users to easily recall specific information, even if they can't remember it themselves. Users also have an option to select other file types if they wish to upload their own file, the current file types include TXT and PDF files, which can be selected in the file type dropdown option.
+    The 'Brain Search' section of the application unlocks the full potential of your digital journal. Here, you can ask any questions related to your journal entries, and the combination of OpenAI's Embeddings and Langchain will provide accurate responses in seconds, no matter how long the entry or document may be. The virtual brain can help in all aspects of a user's life, enabling users to easily recall specific information, even if they can't remember it themselves. Users also have an option to select other file types if they wish to upload their own file, the current file types include TXT and PDF files, which can be selected in the file type dropdown option.
     
     ### Tools Used
     - OpenAI [Embeddings](https://platform.openai.com/docs/guides/embeddings)
