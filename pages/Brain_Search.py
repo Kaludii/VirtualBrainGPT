@@ -38,7 +38,7 @@ def main():
                 """
     st.markdown(hide_streamlit_style, unsafe_allow_html=True)
     st.title("Digital Brain Journal Search 🔍")
-    st.write("Ask any questions about all the journal entries with OpenAI's Embeddings and Langchain. The virtual brain keeps track of everything in a user's life. If you have another TXT or PDF file you'd like to search for answers, click on the dropdown and select eithter TXT or PDF option in file type.")
+    st.write("Ask any questions about any of your journal entries with OpenAI's Embeddings and Langchain. The virtual brain keeps track of everything in a user's life. If you have another TXT or PDF file you'd like to search for answers, click on the dropdown and select eithter TXT or PDF option in file type. Along with the response, you will also get information about the amount of tokens that were used and the Total Cost of the query.")
 
     # Add API key input
     api_key = st.text_input("Enter your OpenAI API key:", type="password")

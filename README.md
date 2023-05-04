@@ -25,7 +25,7 @@ In the 'Brain Entry' section, users can create a new journal entry or edit an ex
 
 ### Brain Search
 
-The 'Brain Search' section of the application unlocks the full potential of your digital journal. Here, you can ask any questions related to your journal entries, and the combination of OpenAI's Embeddings and Langchain will provide accurate responses in seconds, no matter how long the entry or document may be. The virtual brain can help in all aspects of a user's life, enabling users to easily recall specific information, even if they can't remember it themselves. Users also have an option to select other file types if they wish to upload their own file, the current file types include TXT and PDF files, which can be selected in the file type dropdown option.
+The 'Brain Search' section of the application unlocks the full potential of your digital journal. Here, you can ask any questions related to your journal entries, and the combination of OpenAI's Embeddings and Langchain will provide accurate responses in seconds, no matter how long the entry or document may be. The virtual brain can help in all aspects of a user's life, enabling users to easily recall specific information, even if they can't remember it themselves. Users also have an option to select other file types if they wish to upload their own file, the current file types include TXT and PDF files, which can be selected in the file type dropdown option. Along with the response, you will also get information about the amount of tokens that were used and the Total Cost of the query.
 
 ## Examples of Use-Cases
 
