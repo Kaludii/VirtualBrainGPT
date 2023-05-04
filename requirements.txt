@@ -1,0 +1,7 @@
+langchain==0.0.154
+PyPDF2==3.0.1
+streamlit==1.18.1
+python-dotenv
+openai
+tiktoken
+faiss-cpu
