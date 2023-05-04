@@ -1,7 +1,7 @@
 
 # VirtualBrainGPT: Digital Journal 📝
 
-VirtualBrainGPT is a digital journal application that leverages the power of OpenAI's Embeddings and Langchain to create a seamless and efficient journaling experience. With the capability to search and extract information from journal entries in seconds, VirtualBrainGPT becomes an indispensable tool for users who want to recall specific details from their past entries.
+VirtualBrainGPT is a digital journal streamlit application that leverages the power of OpenAI's Embeddings and Langchain to create a seamless and efficient journaling experience. With the capability to search and extract information from journal entries in seconds, VirtualBrainGPT becomes an indispensable tool for users who want to recall specific details from their past entries.
 
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/VirtualBrainGPT "Here") To View This Application Online!
