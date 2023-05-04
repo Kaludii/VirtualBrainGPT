@@ -39,6 +39,7 @@ This application can be used in many ways. Imagine five years from now, you're t
 -   [Streamlit](https://streamlit.io/)
 
 ### Libraries
+-   Streamlit
 -   OpenAI
 -   PyPDF2
 -   LangChain
