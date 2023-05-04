@@ -6,9 +6,9 @@ VirtualBrainGPT is a digital journal application that leverages the power of Ope
 # Web App
 Click [Here](https://huggingface.co/spaces/Kaludi/VirtualBrainGPT "Here") To View This Application Online!
 
-![virtualbrain1](https://user-images.githubusercontent.com/63890666/236136026-c6f1a3f9-4e58-4ddf-a5a7-c349395b67af.png)
-![virtualbrain2](https://user-images.githubusercontent.com/63890666/236136020-bb10c286-deac-436c-99cc-67b6a86f5672.png)
-![virtualbrain3](https://user-images.githubusercontent.com/63890666/236136028-65f4f874-9076-4e4f-9887-cbc1a2e6fd20.png)
+![virtualbrain1](https://user-images.githubusercontent.com/63890666/236143398-cc3811e5-1945-462c-8cff-1bd879b6309f.png)
+![virtualbrain2](https://user-images.githubusercontent.com/63890666/236143397-e55cca01-e10a-424d-98f5-0659239aaf95.png)
+![virtualbrain3](https://user-images.githubusercontent.com/63890666/236143395-f7775951-4e51-4252-8f4a-07628ad0f3c3.png)
 
 ## Features
 
