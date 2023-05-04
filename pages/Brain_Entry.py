@@ -124,7 +124,7 @@ st.header("Previous Journal Entries")
 entries = get_journal_entries()
 
 if entries:
-    selected_entry_date = st.selectbox("Select an entry to view or edit:", entries, format_func=lambda x: x.strftime("%m-%d-%Y %A"))
+    selected_entry_date = st.selectbox("Select an entry to view:", entries, format_func=lambda x: x.strftime("%m-%d-%Y %A"))
 
     if st.button("Load Entry"):
         entry_text = read_entry(selected_entry_date)
